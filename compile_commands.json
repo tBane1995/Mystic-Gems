@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/About.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/About.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/About.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/Button.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Button.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Button.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/ColorIndex.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/ColorIndex.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/ColorIndex.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/ComboText.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/ComboText.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/ComboText.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/Cursor.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Cursor.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Cursor.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/ElementGUI.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/ElementGUI.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/ElementGUI.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/Font.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Font.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Font.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/Fragment.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Fragment.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Fragment.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/Game.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Game.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Game.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/Gem.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Gem.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Gem.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/Instructions.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Instructions.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Instructions.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/Layout.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Layout.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Layout.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/MainMenu.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/MainMenu.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/MainMenu.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/SoundManager.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/SoundManager.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/SoundManager.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/Textures.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Textures.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Textures.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/Timer.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Timer.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Timer.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/Window.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Window.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/Window.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++ -DSFML_STATIC -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/include -I/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src -Wall -std=c++17 -fallow-void-main -o CMakeFiles/Mystic-Gems.dir/src/main.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/main.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/Mystic-Gems/src/main.cpp"
+}
+]
