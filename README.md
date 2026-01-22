@@ -1,4 +1,5 @@
 # Mystic-Gems
+![Mystic-Gems](logo.png)
 
 ## Spis treści
 - [Opis](#opis)
